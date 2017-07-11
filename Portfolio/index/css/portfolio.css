@@ -1,0 +1,67 @@
+/*CLASSES*/
+body{
+	font-family: Oswald; 
+	background: black;
+	color: white;
+	background: url(https://source.unsplash.com/m1HYh7QpCF8);
+	background-size: cover;
+	background-position: center;
+	margin-bottom: 35px;
+}
+a{
+	color: white;
+}
+img{
+	width: 100%;
+	margin:1.66%;
+	border-radius: 5%;
+}
+nav{
+	display: none;
+}
+/*ID'S*/
+#container{
+	text-align: center;
+	margin: 0 auto;
+	display: none;
+}
+#header{
+	margin-top: 300px;
+
+}
+#about{
+	margin: 500px auto 0px auto;
+	padding-top: 150px;
+	padding-bottom: 400px;
+	border-top: 3px solid rgba(255, 255, 255, 0.2);
+	border-bottom: 3px solid rgba(255, 255, 255, 0.2);
+}
+#me{
+	width: 30%;
+	/*height: 200px;*/
+	border-radius: 100%;
+}
+#skills{
+	margin: 0px auto 200px auto;
+	padding-top: 300px;
+	padding-bottom: 375px;
+	border-bottom: 3px solid rgba(255, 255, 255, 0.2);
+}
+#portfolio{
+}
+#soon{
+	margin-top: 50px;
+}
+#contact{
+	margin-top: 100px;
+	width: 100%;
+}
+/*SPECIAL ID'S*/
+#h1-nav{
+	float: left;
+}
+#h2-skills{
+	margin-bottom: 80px;
+}
+
+
